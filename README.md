@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, React & ML**
 
-- 👨‍💻 All of my projects are available at [github.com/FireWtap](https://github.com/FireWtap)
+- 👨‍💻 All of my projects are available at [github.com/FireWtap](https://github.com/FireWtap&tab=repositories)
 
 - 📫 How to reach me **massafra32@gmail.com**
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/francesco-massafra-993097216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francesco-massafra-993097216" height="30" width="40" /></a>
 <a href="https://instagram.com/francescom._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="francescom._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Francescom._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="firewtap" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/Francescom_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="firewtap" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
