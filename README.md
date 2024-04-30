@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, React & ML**
 
-- 👨‍💻 All of my projects are available at [github.com/FireWtap](https://github.com/FireWtap&tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/FireWtap](https://github.com/FireWtap?tab=repositories)
 
 - 📫 How to reach me **massafra32@gmail.com**
 
