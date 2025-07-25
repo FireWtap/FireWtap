@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Francesco</h1>
 <h3 align="center">An aspiring Software Developer from Italy.</h3>
 
-- 🔭 I’m currently working on [Telespace](https://github.com/firewtap/telespace)
+- 🔭 I’m currently working on [ML APPLICATION ON BIOLOGICAL DATA](https://github.com/seriph78/ML_for_MS)
 
-- 🌱 I’m currently learning **Rust, React & ML**
+- 🌱 I’m currently learning **ML and some random JS framework to show my findings**
 
 - 👨‍💻 All of my projects are available at [github.com/FireWtap](https://github.com/FireWtap?tab=repositories)
 
