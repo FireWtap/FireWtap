@@ -1,34 +1,80 @@
-<h1 align="center">Hi 👋, I'm Francesco</h1>
-<h3 align="center">An aspiring Software Developer from Italy.</h3>
+<h1 align="center">Hi, I'm Francesco 👋</h1>
 
-- 🔭 I’m currently working on [ML APPLICATION ON BIOLOGICAL DATA](https://github.com/seriph78/ML_for_MS)
+<h3 align="center">
+AI MSc student @ University of Amsterdam · ML / Research Engineering · Software Developer
+</h3>
 
-- 🌱 I’m currently learning **ML and some random JS framework to show my findings**
-
-- 👨‍💻 All of my projects are available at [github.com/FireWtap](https://github.com/FireWtap?tab=repositories)
-
-- 📫 How to reach me **massafra32@gmail.com**
-
-- 📄 Know about my experiences [here](https://francesco.wylit.it/resume.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/francesco-massafra-993097216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francesco-massafra-993097216" height="30" width="40" /></a>
-<a href="https://instagram.com/francescom._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="francescom._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/Francescom_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="firewtap" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:massafra32@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/francesco-massafra-993097216">LinkedIn</a> ·
+  <a href="https://github.com/FireWtap">GitHub</a> ·
+  <a href="https://francesco.wylit.it/resume.pdf">Resume</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<!-- Ensure all these links go to official resources or verified tutorials -->
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
-<a href="https://codeigniter.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/></a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
-<a href="https://www.postgresql.org" target="_
+---
+
+### About me
+
+I'm Francesco, an AI MSc student at the University of Amsterdam with a background in software engineering and machine learning research.
+
+I like building things that sit between research and engineering: reproducible ML pipelines, model evaluation setups, world-model experiments, and tools that make results easier to inspect, explain, or deploy.
+
+Recently, I have been working on:
+
+- reinforcement learning and hierarchical planning with latent world models
+- probing video foundation models for intuitive physics
+- open-weight LLM safety evaluation and dataset filtering
+- ML pipelines for Multiple Sclerosis biomarker discovery
+
+Before focusing more deeply on AI research, I worked as a full-stack developer, building production web platforms with React, Node.js, PostgreSQL, Docker, and Linux deployments.
+
+---
+
+### Selected projects
+
+#### 🧠 Hi-LeWM: Hierarchical Planning in LeWorldModel
+A research project on hierarchical planning for goal-conditioned control using latent macro-actions, CEM/MPC planning, and a frozen low-level world model.
+
+[Repository](https://github.com/dl2-uva-le-wm/h-le-wm)
+
+#### 🎥 Probing Intuitive Physics in Video Foundation Models
+Layerwise probing of V-JEPA, VideoMAE, and LTX-Video representations to study whether pretrained video models encode intuitive-physics structure.
+
+[Repository](https://github.com/fomo-uva-video/Probe4Physics)
+
+#### 🛡️ Open-Weight LLM Safety and Dataset Filtering
+Reproduction and extension of harmful-content filtering pipelines for web-scale datasets using open-weight LLMs and moderation benchmarks.
+
+[Repository](https://github.com/NiccoloCase/safer-pretraining-reproduction-uva/tree/main/src)
+
+#### 🧬 ML for Multiple Sclerosis Biomarker Discovery
+Machine learning pipeline for transcriptomics analysis, combining XGBoost, SHAP, differential expression analysis, and biological enrichment.
+
+[Repository](https://github.com/seriph78/ML_for_MS)
+
+---
+
+### Tech I use
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Software engineering**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### Contact
+
+You can reach me at **massafra32@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/francesco-massafra-993097216).
