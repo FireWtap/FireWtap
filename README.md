@@ -20,14 +20,6 @@ I'm Francesco, a research engineer and AI MSc student at the University of Amste
 
 I like building things that sit between research and engineering: reproducible ML pipelines, model evaluation setups, world-model experiments, and tools that make results easier to inspect, explain, or deploy. Lately I'm most interested in efficient inference: quantizing, profiling and repairing models so they run faster and on smaller hardware.
 
-Recently, I have been working on:
-
-- low-bit LLM quantization: running a 13B translation model on an 8 GB GPU with GPTQ and a distilled LoRA adapter
-- hierarchical planning with latent world models — **NeurIPS 2026 PTA Workshop · [WM@Booth 2026](https://wm-booth.org/)** — [arXiv:2607.12547](https://arxiv.org/abs/2607.12547)
-- probing video foundation models for intuitive physics — **NeurIPS 2026 World Models in Physical AI Workshop** — [arXiv:2606.09646](https://arxiv.org/abs/2606.09646)
-- open-weight LLM safety evaluation and dataset filtering — under review at TMLR
-- ML pipelines for Multiple Sclerosis biomarker discovery — first author, [arXiv:2603.05572](https://arxiv.org/abs/2603.05572)
-
 Before focusing more deeply on AI research, I worked as a full-stack developer, building production web platforms with React, Node.js, PostgreSQL, Docker, and Linux deployments.
 
 ---
@@ -53,7 +45,7 @@ Layerwise probing of V-JEPA, VideoMAE, and LTX-Video representations to study wh
 [Paper](https://arxiv.org/abs/2606.09646) · [Repository](https://github.com/fomo-uva-video/Probe4Physics)
 
 #### 🛡️ Open-Weight LLM Safety and Dataset Filtering
-Reproduction and extension of harmful-content filtering pipelines for web-scale datasets using open-weight LLMs and moderation benchmarks.
+Reproduction and extension of harmful-content filtering pipelines for web-scale datasets using open-weight LLMs and moderation benchmarks. Under review at TMLR.
 
 [Repository](https://github.com/NiccoloCase/safer-pretraining-reproduction-uva/tree/main/src)
 
