@@ -18,7 +18,7 @@ Research Engineer · AI MSc @ University of Amsterdam · RL, world models, LLM q
 
 I'm Francesco, a research engineer and AI MSc student at the University of Amsterdam with a background in software engineering and machine learning research.
 
-I like building things that sit between research and engineering: reproducible ML pipelines, model evaluation setups, world-model experiments, and tools that make results easier to inspect, explain, or deploy. Lately I'm most interested in efficient inference: quantizing, profiling and repairing models so they run faster and on smaller hardware.
+I like building things that sit between research and engineering: reproducible ML pipelines, model evaluation setups, world-model experiments, and tools that make results easier to inspect, explain, or deploy. Lately I'm most interested in efficient inference.
 
 Before focusing more deeply on AI research, I worked as a full-stack developer, building production web platforms with React, Node.js, PostgreSQL, Docker, and Linux deployments.
 
